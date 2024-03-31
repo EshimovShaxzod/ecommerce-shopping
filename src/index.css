@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.active{
+    color: orange;
+    border-bottom: 2px solid blue;
+}
+
+.hero{
+    background-image: url("https://www.slidebackground.com/uploads/blue-ppt-backgrounds/powerpoint-background-elegant-blue-bubble-21.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
